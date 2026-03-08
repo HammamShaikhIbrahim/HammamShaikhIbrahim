@@ -63,6 +63,9 @@ I am a multi-disciplinary tech professional specializing in **Information Securi
 <h2 align="center">📈 GitHub Activity</h2>
 
 <div align="center">
-  <!-- قمت بتغيير الثيم هنا إلى hacker ليناسب مجال الأمن السيبراني -->
+  <!-- الإحصائيات مع اسم حسابك الصحيح -->
   <img src="https://github-readme-stats.vercel.app/api?username=HammamShaikhIbrahim&show_icons=true&theme=hacker&hide_border=true" alt="Hammam's GitHub Stats" />
+  <br/>
+  <!-- إضافة أداة Streak لإظهار أيام البرمجة المتواصلة -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HammamShaikhIbrahim&theme=hacker&hide_border=true" alt="Hammam's GitHub Streak" />
 </div>
